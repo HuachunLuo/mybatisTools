@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: javatools
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: RO
+Implementation-Vendor-Id: com.systexgc
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/javatools
+Created-By: Maven Integration for Eclipse
+
